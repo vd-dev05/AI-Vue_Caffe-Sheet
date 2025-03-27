@@ -116,7 +116,7 @@
           <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
             <div class="relative h-48 overflow-hidden">
               <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.7 ★</div>
-              <img src="https://images.unsplash.com/photo-1518057111178-44a106bad149?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Espresso" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+              <img src="https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Espresso" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
             </div>
             <div class="p-4">
               <div class="flex justify-between items-center">
@@ -140,7 +140,7 @@
           <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
             <div class="relative h-48 overflow-hidden">
               <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.8 ★</div>
-              <img src="https://images.unsplash.com/photo-1585441695325-21557c7c0e63?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Hazelnut Latte" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+              <img src="https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Hazelnut Latte" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
             </div>
             <div class="p-4">
               <div class="flex justify-between items-center">
@@ -224,6 +224,220 @@
             <button class="bg-amber-900 text-white px-4 py-2 rounded-full hover:bg-amber-800 transition-colors duration-300 transform active:scale-95">
               Get your coffee
             </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Special Menu Section -->
+      <div class="mt-24 mb-12 relative">
+        <h2 class="text-2xl font-bold mb-8">
+          Special menu for you
+        </h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <!-- Menu Item 1: Sandwich -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
+            <div class="relative h-40 overflow-hidden">
+              <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.8 ★</div>
+              <img src="https://images.unsplash.com/photo-1528735602780-2552fd46c7af?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Sandwich" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+            </div>
+            <div class="p-4">
+              <div class="flex justify-between items-center mb-1">
+                <h3 class="font-bold">Sandwich</h3>
+                <span class="font-bold text-amber-900">12 K</span>
+              </div>
+              <p class="text-gray-500 text-xs mb-3">Bread with meat and vegetables</p>
+              <div class="flex justify-end">
+                <button class="bg-amber-500 p-2 rounded-full hover:bg-amber-600 transition-colors duration-300 active:scale-95 transform">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z" clip-rule="evenodd" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Menu Item 2: Hot Milk -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
+            <div class="relative h-40 overflow-hidden">
+              <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.7 ★</div>
+              <img src="https://images.unsplash.com/photo-1517578239113-b03992dcdd25?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Hot Milk" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+            </div>
+            <div class="p-4">
+              <div class="flex justify-between items-center mb-1">
+                <h3 class="font-bold">Hot Milk</h3>
+                <span class="font-bold text-amber-900">12 K</span>
+              </div>
+              <p class="text-gray-500 text-xs mb-3">Hot milk with less sugar</p>
+              <div class="flex justify-end">
+                <button class="bg-amber-500 p-2 rounded-full hover:bg-amber-600 transition-colors duration-300 active:scale-95 transform">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z" clip-rule="evenodd" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Menu Item 3: Coffee Ice Cream -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
+            <div class="relative h-40 overflow-hidden">
+              <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.9 ★</div>
+              <img src="https://images.unsplash.com/photo-1579954115545-a95591f28bfc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Coffee Ice Cream" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+            </div>
+            <div class="p-4">
+              <div class="flex justify-between items-center mb-1">
+                <h3 class="font-bold">Coffee Ice Cream</h3>
+                <span class="font-bold text-amber-900">12 K</span>
+              </div>
+              <p class="text-gray-500 text-xs mb-3">Coffee with ice cream vanilla</p>
+              <div class="flex justify-end">
+                <button class="bg-amber-500 p-2 rounded-full hover:bg-amber-600 transition-colors duration-300 active:scale-95 transform">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z" clip-rule="evenodd" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Menu Item 4: Cappuccino -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
+            <div class="relative h-40 overflow-hidden">
+              <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.8 ★</div>
+              <img src="https://images.unsplash.com/photo-1572442388796-11668a67e53d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Cappuccino" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+            </div>
+            <div class="p-4">
+              <div class="flex justify-between items-center mb-1">
+                <h3 class="font-bold">Cappuccino</h3>
+                <span class="font-bold text-amber-900">12 K</span>
+              </div>
+              <p class="text-gray-500 text-xs mb-3">Hot cappuccino</p>
+              <div class="flex justify-end">
+                <button class="bg-amber-500 p-2 rounded-full hover:bg-amber-600 transition-colors duration-300 active:scale-95 transform">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z" clip-rule="evenodd" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Menu Item 5: Moccacino -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
+            <div class="relative h-40 overflow-hidden">
+              <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.8 ★</div>
+              <img src="https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Moccacino" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+            </div>
+            <div class="p-4">
+              <div class="flex justify-between items-center mb-1">
+                <h3 class="font-bold">Moccacino</h3>
+                <span class="font-bold text-amber-900">12 K</span>
+              </div>
+              <p class="text-gray-500 text-xs mb-3">Hot moccacino</p>
+              <div class="flex justify-end">
+                <button class="bg-amber-500 p-2 rounded-full hover:bg-amber-600 transition-colors duration-300 active:scale-95 transform">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z" clip-rule="evenodd" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Menu Item 6: Waffle Ice Cream -->
+          <div class="bg-white rounded-lg shadow-lg overflow-hidden hover-grow">
+            <div class="relative h-40 overflow-hidden">
+              <div class="absolute top-2 left-2 bg-white px-2 py-1 rounded-full text-xs z-10 font-medium">4.9 ★</div>
+              <img src="https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Waffle Ice Cream" class="w-full h-full object-cover transition-transform duration-500 hover:scale-110">
+            </div>
+            <div class="p-4">
+              <div class="flex justify-between items-center mb-1">
+                <h3 class="font-bold">Waffle Ice Cream</h3>
+                <span class="font-bold text-amber-900">12 K</span>
+              </div>
+              <p class="text-gray-500 text-xs mb-3">Waffle with ice cream</p>
+              <div class="flex justify-end">
+                <button class="bg-amber-500 p-2 rounded-full hover:bg-amber-600 transition-colors duration-300 active:scale-95 transform">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M10 3a1 1 0 011 1v5h5a1 1 0 110 2h-5v5a1 1 0 11-2 0v-5H4a1 1 0 110-2h5V4a1 1 0 011-1z" clip-rule="evenodd" />
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Testimonials Section -->
+      <div class="mt-24 mb-12 relative bg-amber-100 py-12 px-6 rounded-xl">
+        <h2 class="text-2xl font-bold mb-8">
+          What they say about us
+        </h2>
+        
+        <p class="text-gray-600 mb-8 max-w-lg">
+          We always provide the best service and always maintain the quality of coffee
+        </p>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <!-- Testimonial 1 -->
+          <div class="bg-white rounded-lg shadow-md p-6 hover-grow">
+            <div class="flex items-center mb-4">
+              <img src="https://randomuser.me/api/portraits/women/79.jpg" alt="Naura" class="w-12 h-12 rounded-full mr-4 object-cover">
+              <div>
+                <h3 class="font-bold">Naura</h3>
+                <div class="flex text-yellow-500">
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                </div>
+              </div>
+            </div>
+            <p class="text-gray-600 text-sm">
+              "I really love the cappuccino, the coffee was very smooth."
+            </p>
+          </div>
+          
+          <!-- Testimonial 2 -->
+          <div class="bg-white rounded-lg shadow-md p-6 hover-grow">
+            <div class="flex items-center mb-4">
+              <img src="https://randomuser.me/api/portraits/men/52.jpg" alt="Alex" class="w-12 h-12 rounded-full mr-4 object-cover">
+              <div>
+                <h3 class="font-bold">Alex</h3>
+                <div class="flex text-yellow-500">
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                </div>
+              </div>
+            </div>
+            <p class="text-gray-600 text-sm">
+              "This coffee shop is in a convenient location and the staff is great!"
+            </p>
+          </div>
+          
+          <!-- Testimonial 3 -->
+          <div class="bg-white rounded-lg shadow-md p-6 hover-grow">
+            <div class="flex items-center mb-4">
+              <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Kevin" class="w-12 h-12 rounded-full mr-4 object-cover">
+              <div>
+                <h3 class="font-bold">Kevin</h3>
+                <div class="flex text-yellow-500">
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                  <span>★</span>
+                </div>
+              </div>
+            </div>
+            <p class="text-gray-600 text-sm">
+              "The coffee was amazing! I can't wait to come back!"
+            </p>
           </div>
         </div>
       </div>
